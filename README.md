@@ -1,10 +1,10 @@
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
-🎓 Étudiant en Cybersécurité à l'Université Euromed de Fès  
-🔐 Passionné par la sécurité offensive, les CTFs (pwn, OSINT, forensics, web), et l'analyse de vulnérabilités  
-💻 Développeur en C, C++, Python, Web et Flutter  
-🧠 Curieux de nature, toujours en train d'explorer de nouveaux outils, frameworks et techniques en cybersécu  
-🛠️ J'aime construire des projets techniques, relever des challenges et apprendre en profondeur.
+🎓 Cybersecurity student at Euromed University of Fes  
+🔐 Passionate about offensive security, CTFs (pwn, OSINT, forensics, web), and vulnerability analysis  
+💻 Developer with experience in C, C++, Python, Web, and Flutter  
+🧠 Naturally curious and always exploring new tools, frameworks, and cybersecurity techniques  
+🛠️ I love building technical projects, solving challenges, and learning deeply.
 
 ---
 
