@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/c85d1ca7-e0bb-4264-a1e8-a3d184aca954)
+
 ## 👨‍💻 About Me
 
 🎓 Cybersecurity student at Euromed University of Fes  
